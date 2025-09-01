@@ -59,7 +59,7 @@ const About = () => {
 
           {/* Download CV Button */}
           <a
-            href="/Tanveer_CV.pdf"
+            href="/Tanveer CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-semibold shadow-md hover:shadow-lg hover:scale-105 transition-transform"
