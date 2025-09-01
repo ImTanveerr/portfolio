@@ -14,8 +14,8 @@ const Skills = () => {
     {
       title: "Frontend",
       skills: [
-        { name: "React", icon: "/icons/react.svg" },
-        { name: "Next.js", icon: "/icons/next.js.svg" },
+        { name: "React", icon: "/icons/React.svg" },
+        { name: "Next.js", icon: "/icons/Next.js.svg" },
         { name: "TypeScript", icon: "/icons/typescript.svg" },
         { name: "TailwindCSS", icon: "/icons/tailwind.svg" },
 
@@ -27,11 +27,11 @@ const Skills = () => {
     {
       title: "Backend",
       skills: [
-        { name: "NodeJS", icon: "/icons/node.js.svg" },
+        { name: "NodeJS", icon: "/icons/Node.js.svg" },
         { name: "TypeScript", icon: "/icons/typescript.svg" },
         { name: "Express", icon: "/icons/express.png" },
-        { name: "Python", icon: "/icons/python.svg" },
-        { name: "Flask", icon: "/icons/flask.svg" },
+        { name: "Python", icon: "/icons/Python.svg" },
+        { name: "Flask", icon: "/icons/Flask.svg" },
       ],
     },
     {
